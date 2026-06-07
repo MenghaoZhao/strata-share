@@ -1,0 +1,6 @@
+{
+  "name": "Strata Share",
+  "description": "Access, manage, and share strata documents with ease. Strata Share provides a central repository for strata files with branded document sharing for real estate agents and strata managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
